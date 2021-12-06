@@ -1,0 +1,14 @@
+{
+  "name": "monorepo",
+  "private": "true",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chimit",
+  "workspaces": [
+    "app-1",
+    "components"
+  ],
+  "license": "ISC"
+}
